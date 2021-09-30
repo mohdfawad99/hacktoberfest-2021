@@ -1,8 +1,7 @@
-# hacktoberfest-2021
+# Hacktoberfest 2021
 
 <img align="center" height="200" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg"/>
 
-Hacktoberfest 2021
 This is an intermediate-level project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't
 know where to start, feel free to watch the videos linked below, and
