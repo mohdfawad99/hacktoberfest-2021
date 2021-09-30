@@ -22,7 +22,7 @@ P.S. Star and share this repository, if you had fun!
 
 ## Ideas for contributions
 :sparkles:
-- Add your own projects to the 'Helpful Material Page'
+- Add well defined programs and only those will be accepted.
 
 ## FAQs
 :sparkles:
