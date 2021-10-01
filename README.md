@@ -36,7 +36,7 @@ P.S. Star and share this repository, if you had fun!
   - go to : [https://hacktoberfest.digitalocean.com/profile/](https://hacktoberfest.digitalocean.com/profile/)
 
 - What is the duration of Hacktoberfest 2021?
-  - It is from 1st october to 31st October 2021.
+  - It is from 1st October to 31st October 2021.
 
 - What is the event for?
   - For the open-source community engagement.
