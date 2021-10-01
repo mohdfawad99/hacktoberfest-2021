@@ -1,0 +1,31 @@
+
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve()
+{
+    ll n, x, t;
+    cin >> n >> x >> t;
+    ll sum = 0;
+
+    //if(t/x>n-i) sum+=n-i;
+    sum = (t / x) * (n - t / x) + (t / x) * ((t / x) - 1) / 2;
+    if (n == 1)
+        cout << "0" << endl;
+    else if (n <= t / x)
+        cout << n * (n - 1) / 2 << endl;
+    else
+        cout << sum << endl;
+}
+
+int main()
+{
+    int k;
+    cin >> k;
+    while (k--)
+        solve();
+
+    return 0;
+}
