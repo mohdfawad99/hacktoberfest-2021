@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Binary Search in Java
 
-class Main {
+class BinarySearch {
   int binarySearch(int array[], int element, int low, int high) {
 
  
@@ -28,7 +28,7 @@ class Main {
   public static void main(String args[]) {
 
 
-    Main obj = new Main();
+    BinarySearch obj = new BinarySearch();
 
 
     int[] array = { 3, 4, 5, 6, 7, 8, 9 };
