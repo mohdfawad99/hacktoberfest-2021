@@ -1,7 +1,7 @@
 import java.util.*;
 
-class Fibonacci{  
-public static void main([String] args)  
+class Fibonacci_nth{  
+public static void main(String[] args)  
 {  
     Scanner sc = new Scanner(System.in);
     System.out.println("Please Enter a number:");
