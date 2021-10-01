@@ -6,9 +6,9 @@ integer form and solves and gives the output of Numeric Expression
 package com.company;
 import java.util.*;
 
-public class expression {
+public class Expression {
     String expn;
-    expression() {
+    Expression(){
         expn = "";
     }
 
@@ -17,7 +17,7 @@ public class expression {
     }
 
     public static void main(String[] args) {
-        expression ob = new expression();
+        expression ob = new Expression();
         ob.input("20+7");                           //String input (Arithmatic Expression)
         System.out.println(ob.expn);                //Display Expression
         System.out.println(ob.getfinalval());       //Solve numeric expression to give output
