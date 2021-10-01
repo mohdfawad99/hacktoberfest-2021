@@ -1,5 +1,5 @@
 import java.util.*;
-public class largest_smallest
+public class Largest_smallest
 {
     public static void main (String args[])
     {
