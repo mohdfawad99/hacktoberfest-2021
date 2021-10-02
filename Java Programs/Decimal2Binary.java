@@ -1,5 +1,5 @@
 import java.util.*;
-public class decimal2binary
+public class Decimal2Binary
 {
     public static void main(String Args[])
     {
