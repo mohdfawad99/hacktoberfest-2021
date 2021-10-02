@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class StringPalindrome {
 	static boolean isPalindrome(String str)
 	{
 		int i = 0, j = str.length() - 1;
